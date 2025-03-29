@@ -1,4 +1,4 @@
-##Welcome To Online PAyment Gateway
+## Welcome To Online PAyment Gateway 
 
 **Description about the project:**
 Online Payment Gateway is a full-stack web application built with Java, Hibernate, Jersey, PostgreSQL, and jQuery. 
